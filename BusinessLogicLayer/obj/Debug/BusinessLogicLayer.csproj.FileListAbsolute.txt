@@ -1,0 +1,63 @@
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

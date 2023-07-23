@@ -1,0 +1,42 @@
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

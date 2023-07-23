@@ -1,0 +1,438 @@
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Huy\CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_1\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_3\CuaHangDoChoi_Full_1\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+C:\Users\ASUS\Desktop\CuaHangDoChoi_Full_6\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_8\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTrangChu.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_10\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.FrmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\CuaHangDoChoi_Full_11\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDangNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Nam3\Ky1\HeQuanTriCoSoDuLieu\Đồ án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDangNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\TAILIEU\Hệ quản trị cơ sở dữ liệu\Đồ Án\Nhom7_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDangNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\CuaHangDoChoi_Full_15\Nhom12_CuaHangDoChoi\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe.config
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\CuaHangDoChoi.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\DataAccessLayer.dll
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.AssemblyReference.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.SuggestedBindingRedirects.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmAdminHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmChiTietHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDangNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDanhMucDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmDoChoi.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonBan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmHoaDonNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNganKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhanVien.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhap.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmNhaSanXuat.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmTaiKhoan.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongKe.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmThongTin.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.frmUserHome.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.Properties.Resources.resources
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.GenerateResource.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CoreCompileInputs.cache
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.csproj.CopyComplete
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.exe
+D:\Baitapthumuc\HK1Nam3\Hequantricosodulieu\Detaicuoiky\XemlaiDrive\Nhóm 7\Source code (.rar)\CuaHangDoChoi\obj\Debug\CuaHangDoChoi.pdb
